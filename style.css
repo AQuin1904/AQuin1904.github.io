@@ -37,6 +37,16 @@ h3
 	font-size: 14px;
 }
 
+.title
+{
+	font-style: italic;
+}
+
+.emph
+{
+	font-weight: bold;
+}
+
 a:link
 {
 	text-decoration: none;
