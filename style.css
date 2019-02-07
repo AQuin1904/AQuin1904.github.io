@@ -1,0 +1,36 @@
+/*Style sheet for index.html, resume.html, bio.html*/
+
+body
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color: lightgray;
+	font-color: lightgray;
+	font-size: 12px;
+	text-align: center;
+}
+
+.block
+{
+	background-color: dimgray;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+h1
+{
+	font-size: 48px;
+	background-color: #595959; /*darker shade of dim gray*/
+}
+
+h2
+{
+	font-size: 24px;
+	background-color: #595959;
+}
+
+h3
+{
+	font-size: 14px;
+}
