@@ -9,6 +9,13 @@ body
 	text-align: center;
 }
 
+img
+{
+	width: 540px;
+	height: auto;
+	border-radius: 50%;
+}
+
 .block
 {
 	background-color: dimgray;
